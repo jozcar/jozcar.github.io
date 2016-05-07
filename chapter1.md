@@ -1,3 +1,7 @@
-# First Chapter
+# Creating Base Class
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+The idea of creating a base class is to reduce boiler plate code in your backbone model or views. 
+
+Lets create a base class for a Backbone View render method.
+
+```Var BaseView = Backbone.View.extend(render: function(){ var tpl = _.template(this.template), data = (this.model) ? this.model.toJSON(): {}, html = tpl(data); this.$el.html(html); return this;}})```
