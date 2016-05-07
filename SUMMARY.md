@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [Creating Base Class](chapter1.md)
 * [ccccc](ccccc.md)
 
