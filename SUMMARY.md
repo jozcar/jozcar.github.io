@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [React Notes](react.md)
   * 1.0
-* [ccccc](ccccc.md)
-* JavaScript
+* [JavaScript](javascript.md)
+* Digital Tools
 
