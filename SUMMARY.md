@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Creating Base Class](chapter1.md)
+* [React Notes](react.md)
+  * 1.0
 * [ccccc](ccccc.md)
+* JavaScript
 
