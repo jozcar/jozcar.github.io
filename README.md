@@ -1,16 +1,10 @@
 # General Programming Notes.
 
- React 
+React
 
 Asp.Net
 
 JavaScript
-
-
-
-
-
-
 
 
 
