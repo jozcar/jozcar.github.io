@@ -11,4 +11,7 @@
 * [ASP.NET MVC](mvc.md)
   * [Return Collection To View](mvc/return_collection_to_view.md)
 * [Resources](resources.md)
+* [Creating NPM LIbrary](creating-npm-library.md)
+  * [1.0 Create Git Repo](10-create-git-repo.md)
+  * [1.1 Basic NPM Configuration](11-basic-npm-configuration.md)
 
