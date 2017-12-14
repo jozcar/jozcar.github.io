@@ -15,4 +15,5 @@
   * [1.0 Create Git Repo](10-create-git-repo.md)
   * [1.1 Create Package.Json](11-basic-npm-configuration.md)
 * [1.2  Publishing Your Library to NPM](12-publishing-your-library-to-npm.md)
+* [1.2.1 Releasing a version to Github](121.md)
 
